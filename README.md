@@ -4,6 +4,18 @@
 Vue3 Application where users can upload and listen to their music
 ```
 
+## Instruction for installing tailwind in vue
+
+```npm i -D tailwindcss postcss autoprefixer
+
+```
+
+### Generate configuration files for tailwind and postcss
+
+```
+npx tailwindcss init -p
+```
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
