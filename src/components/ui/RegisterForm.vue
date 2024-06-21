@@ -1,5 +1,5 @@
 <template>
-  <form>
+  <vee-form>
     <!-- Name -->
     <div class="mb-3">
       <label class="inline-block mb-2">Name</label>
@@ -66,7 +66,7 @@
     >
       Submit
     </button>
-  </form>
+  </vee-form>
 </template>
 <script>
 export default {
