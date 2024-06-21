@@ -49,7 +49,6 @@
           </ul>
 
           <!-- Login Form / Registration Form -->
-
           <keep-alive>
             <component :is="tab" />
           </keep-alive>
